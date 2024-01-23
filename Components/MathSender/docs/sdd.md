@@ -1,6 +1,6 @@
 # MathModule::MathSender
 
-Active component used for sending math operands & operations to MathReceiver
+Active component used for sending math operands and operations to MathReceiver
 
 ## Usage Examples
 Add usage examples here

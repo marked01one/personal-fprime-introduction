@@ -1,6 +1,6 @@
 # MathModule::MathReceiver
 
-Queued component that process math operands & operations sent by MathSender
+Queued component that process math operands and operations sent by MathSender
 
 ## Usage Examples
 Add usage examples here
